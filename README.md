@@ -24,7 +24,7 @@ MFASweep can test authentication against the following services:
 Building from source:
 
 ```bash
-# Build for current platform on windows or linux
+# Build for current platform on Mac or Linux
 go build -o mfasweep mfasweep.go
 
 # Build for current platform on Windows
